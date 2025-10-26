@@ -55,6 +55,5 @@ If you find my work helpful or want to collaborate on DevOps projects, feel free
 ⭐ Support My Journey
 
 If you like what I’m doing, consider giving this repository a ⭐ Star — it motivates me to keep learning and sharing more!
+
 “Cloud and DevOps isn’t just a skillset — it’s a mindset of automation, scalability, and continuous improvement.” 🌐
-
-
