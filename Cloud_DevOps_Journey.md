@@ -23,20 +23,20 @@ Hello and welcome! 👋 This repository is my personal space where I’ll docume
     4. Kubernetes – Container orchestration for scaling and automating applications.
     5. Jenkins – CI/CD automation for building, testing, and deploying applications.
     6. Azure DevOps Board – Agile project management and workflow tracking.
-
-##💡 What You Can Expect Here
+    
+💡 ## What You Can Expect Here
 
 📚 Step-by-step tutorials and hands-on guides for each topic. 
 💼 Mini projects and deployment demos showing real-world implementations. 
 🧩 Architecture diagrams, YAML files, and CI/CD pipelines to help others learn visually. 
 🧠 Best practices, troubleshooting tips, and DevOps interview prep notes.
 
-##🌟 Goals of This Repository
+🌟 ## Goals of This Repository
   A. To build a strong foundation in Cloud and DevOps tools. 
   B. To showcase practical knowledge through consistent updates and projects. 
   C. To create a resource that helps other learners and attracts recruiters looking for DevOps enthusiasts.
 
-##🤝 Connect With Me If you find my work helpful or want to collaborate on DevOps projects, feel free to connect:
+🤝 ## Connect With Me If you find my work helpful or want to collaborate on DevOps projects, feel free to connect:
 
 💼 LinkedIn: https://www.linkedin.com/in/jyoti-dixit172/
 
@@ -44,7 +44,7 @@ Hello and welcome! 👋 This repository is my personal space where I’ll docume
 
 ✉️ Email: jyotidixit172@gmail.com
 
-##⭐ Support My Journey
+⭐ ## Support My Journey
 
 If you like what I’m doing, consider giving this repository a ⭐ Star — it motivates me to keep learning and sharing more!
 
