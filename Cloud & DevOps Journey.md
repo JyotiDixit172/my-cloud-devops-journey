@@ -47,11 +47,14 @@ To create a resource that helps other learners and attracts recruiters looking f
 If you find my work helpful or want to collaborate on DevOps projects, feel free to connect:
 
 💼 LinkedIn: https://www.linkedin.com/in/jyoti-dixit172/
+
 🐙 GitHub: https://github.com/JyotiDixit172
+
 ✉️ Email: jyotidixit172@gmail.com
 
 ⭐ Support My Journey
 
 If you like what I’m doing, consider giving this repository a ⭐ Star — it motivates me to keep learning and sharing more!
 “Cloud and DevOps isn’t just a skillset — it’s a mindset of automation, scalability, and continuous improvement.” 🌐
+
 
