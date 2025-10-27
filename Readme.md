@@ -1,6 +1,7 @@
 # 🌩️ **Welcome to My Cloud DevOps Journey**
 
-Hello and welcome! 👋 This repository is my personal space where I’ll document my Cloud and DevOps learning journey — covering everything from foundational concepts to hands-on projects.
+Hello and welcome! I am currently a **Software Engineer** and have recently started working in Cloud and DevOps(Development + Operations).
+👋 This repository is my personal space where I’ll document my Cloud and DevOps learning journey — covering everything from **foundational concepts** to **hands-on projects**.
 
 ## <ins>Roadmap for my Cloud & DevOps Journey</ins>
 
