@@ -1,0 +1,18 @@
+#Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfstate.backup
+.terraform.lock.hcl
+
+# VS code
+.vscode/
+.history/
+
+# Python (if using scripts)
+*.pyc
+.env
+# Python virtual environment
+.venv/
+venv/
