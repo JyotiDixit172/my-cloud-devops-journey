@@ -52,9 +52,3 @@ Hello and welcome! I am currently a **Software Engineer** and have recently star
 🐙 GitHub: https://github.com/JyotiDixit172
 
 ✉️ Email: jyotidixit172@gmail.com
-
-## ⭐ <ins>Support My Journey</ins>
-
-If you like what I’m doing, consider giving this repository a ⭐ Star — it motivates me to keep learning and sharing more!
-
-“Cloud and DevOps isn’t just a skillset — it’s a mindset of automation, scalability, and continuous improvement.” 🌐
